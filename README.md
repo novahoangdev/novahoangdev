@@ -1,66 +1,63 @@
-<!--
-**hoangvanhoa1701/hoangvanhoa1701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hi, I'm Hoa Hoang — Nova! 👋</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2> Hi, I'm Hoàng Hoà - Nova! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="230">
-<p>
-  <em>
-    Front End Developer at <a href="https://watasolutions.com/">Wata Corp</a>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-    </br>
-    Former Front End Developer at <a href="https://gumiviet.com/">GumiViet</a>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-    </br>
-    Former Front End Developer at <a href="https://yoong.vn/en/">Yoong Solution</a>
-    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-  </em>
+<p align="center">
+  <a href="https://novahoangdev.web.app">
+    <!-- <img src="./assets/nova-macbook.gif" width="200" alt="Nova Hoang animated MacBook logo" /> -->
+    <img src="./assets/mewmew.gif" width="200" alt="Nova Hoang Mew mew" />
+    <!-- <img src="./assets/fire.gif" width="200" alt="Nova Hoang burn" /> -->
+  </a>
 </p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<p align="center">
+  <strong>Senior Frontend Developer</strong><br/>
+  Angular · React · TypeScript · NestJS · Enterprise UI
+</p>
 
-#### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat-square&logo=Bootstrap&logoColor=563d7c)
-![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
-<br/>
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Angular](https://img.shields.io/badge/-Angular-white?style=flat-square&logo=Angular&logoColor=dd0031)
-![Vue](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=Vue.js)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-
-```javascript
-const HOANG_HOA = {
-  pronouns: "He" | "his",
-  code: [Javascript, Typescript, HTML, CSS, Python, PHP, Ruby],
-  tools: [Angular, SCSS, Bootstrap 4, Tailwindcss, NativeScript, Vue, Vuex, React, Redux, Rails, Gulp, ...],
-  architecture: ["Microservices", "Event-driven", "Layered Pattern", "Observer", "State"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on angular and typescript"
-}
-```
-[![GitHub Hoàng Hoà](https://img.shields.io/github/followers/hoangvanhoa1701?style=social)](https://github.com/hoangvanhoa1701)
-<br/>
-[![Youtube](https://img.shields.io/youtube/views/ybGt9OJTZgU?label=%20Vlog%20B%C3%A1c%20Ho%C3%A0&style=social)](https://youtu.be/ybGt9OJTZgU)
-<br/>
-[![Facebook](https://img.shields.io/youtube/views/IhpnZyfjsrQ?label=Followers&logo=facebook&style=social)](https://fb.com/vlogbachoa)
-
-<em>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)  
-  <a href="https://fb.com/vlogbachoa">Hoang Hoa</a> 
-</em>
+<p align="center">
+  <a href="https://novahoangdev.web.app">🌐 Portfolio & CV</a>  ·  
+  <a href="https://www.linkedin.com/in/novahoangdev">💼 LinkedIn</a>  ·  
+  <a href="https://x.com/novahoangdev">𝕏 X</a> ·
+  <a href="mailto:novahoangdev@gmail.com">✉️ Email</a>
+</p>
 
 ---
 
+### 🦉 A little more about me...
+
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SCSS" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+</p>
+
+```ts
+const NOVA = {
+  name: "Hoa Hoang",
+  role: "Senior Frontend Developer",
+  code: ["TypeScript", "JavaScript", "HTML", "CSS"],
+  frontend: ["Angular", "React"],
+  backend: ["NestJS"]
+};
+```
+
+### 🚀 Currently building
+
+- 🌐 **[Portfolio & CV](https://novahoangdev.web.app)** — my personal portfolio and interactive CV.
+- 🧰 **[Dev Workspace](https://github.com/novahoangdev/dev-workspace)** — my development workspace for projects, shared context, and AI-assisted coding workflows.
+- 🖥️ **[Interactive Workspace](https://github.com/novahoangdev/interactive-workspace)** — an interactive workspace experience and another way to explore my work.
+- 🍎 **[Mac Dev Setup](https://github.com/novahoangdev/mac-dev-setup)** — a practical macOS setup guide for developers and AI-assisted workflows.
+
+---
+
+<p align="center">
+  👨‍💻 I enjoy building things, experimenting with new ideas, and connecting with other developers.
+</p>
+
+<p align="center">
+  <a href="mailto:novahoangdev@gmail.com">✉️ Email me</a> ·
+  <a href="https://novahoangdev.web.app"><strong>✨ Explore my portfolio</strong></a>
+</p>

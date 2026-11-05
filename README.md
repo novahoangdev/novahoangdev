@@ -47,9 +47,9 @@ const NOVA = {
 ### 🚀 Currently building
 
 - 🌐 **[Portfolio & CV](https://novahoangdev.web.app)** — my personal portfolio and interactive CV.
-- 🧰 **[Dev Workspace](https://github.com/novahoangdev/dev-workspace)** — my development workspace for projects, shared context, and AI-assisted coding workflows.
-- 🖥️ **[Interactive Workspace](https://github.com/novahoangdev/interactive-workspace)** — an interactive workspace experience and another way to explore my work.
-- 🍎 **[Mac Dev Setup](https://github.com/novahoangdev/mac-dev-setup)** — a practical macOS setup guide for developers and AI-assisted workflows.
+- 🧰 **[Dev Workspace](https://github.com/novahoangdev/dev-workspace)** — my development workspace for projects, shared context, and AI-assisted coding workflows. (WIP)
+- 🖥️ **[Interactive Workspace](https://github.com/novahoangdev/interactive-workspace)** — an interactive workspace experience and another way to explore my work. (WIP)
+- 🍎 **[Mac Dev Setup](https://github.com/novahoangdev/mac-dev-setup)** — a practical macOS setup guide for developers and AI-assisted workflows. (WIP)
 
 ---
 

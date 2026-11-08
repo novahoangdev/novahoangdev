@@ -61,3 +61,7 @@ const NOVA = {
   <a href="mailto:novahoangdev@gmail.com">✉️ Email me</a> ·
   <a href="https://novahoangdev.web.app"><strong>✨ Explore my portfolio</strong></a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=novahoangdev&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
